@@ -6,31 +6,31 @@
 {
 	"credentials": [
 		{
-			"acl": [],
-			"created_at": "2024-12-19T20:26:47Z",
-			"description": "credential for \"api-examples-14e5072415f3878f@example.com\"",
-			"id": "cr_2qRz7WBTDAYiQcTDjpKFNGd7PBc",
-			"owner_id": "usr_2qRz7N0DgMEYaqthuwAtelSEpx1",
-			"token": null,
-			"uri": "https://api.ngrok.com/credentials/cr_2qRz7WBTDAYiQcTDjpKFNGd7PBc"
-		},
-		{
 			"acl": ["bind:1.tcp.ngrok.io:20002", "bind:132.devices.company.com"],
-			"created_at": "2024-12-19T20:26:49Z",
+			"created_at": "2024-12-26T10:05:35Z",
 			"description": "for device #132",
-			"id": "cr_2qRz7fNRnO4D1lVA8pwxixZ96Hr",
-			"owner_id": "usr_2qRz7N0DgMEYaqthuwAtelSEpx1",
+			"id": "cr_2qkXR9p7tjj6IIXgcMBMCL04Vlv",
+			"owner_id": "usr_2qkXQwS8qJNOih9pL659xm9qwiZ",
 			"token": null,
-			"uri": "https://api.ngrok.com/credentials/cr_2qRz7fNRnO4D1lVA8pwxixZ96Hr"
+			"uri": "https://api.ngrok.com/credentials/cr_2qkXR9p7tjj6IIXgcMBMCL04Vlv"
 		},
 		{
 			"acl": [],
-			"created_at": "2024-12-19T20:26:49Z",
+			"created_at": "2024-12-26T10:05:35Z",
 			"description": "development cred for alan@example.com",
-			"id": "cr_2qRz7bqeEWTTyTsIWqZUhhzh7iX",
-			"owner_id": "usr_2qRz7N0DgMEYaqthuwAtelSEpx1",
+			"id": "cr_2qkXR7rbs1afliIlfwJatk95lL7",
+			"owner_id": "usr_2qkXQwS8qJNOih9pL659xm9qwiZ",
 			"token": null,
-			"uri": "https://api.ngrok.com/credentials/cr_2qRz7bqeEWTTyTsIWqZUhhzh7iX"
+			"uri": "https://api.ngrok.com/credentials/cr_2qkXR7rbs1afliIlfwJatk95lL7"
+		},
+		{
+			"acl": [],
+			"created_at": "2024-12-26T10:05:34Z",
+			"description": "credential for \"api-examples-47049cce9a22ea01@example.com\"",
+			"id": "cr_2qkXQyC6JUriV8aWKmuqw4ksXmm",
+			"owner_id": "usr_2qkXQwS8qJNOih9pL659xm9qwiZ",
+			"token": null,
+			"uri": "https://api.ngrok.com/credentials/cr_2qkXQyC6JUriV8aWKmuqw4ksXmm"
 		}
 	],
 	"next_page_uri": null,
